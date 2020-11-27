@@ -1,7 +1,8 @@
 ![Opis slike](Slika.img/me.jpeg)
 
 
-##Kristina Šeparović
+## Kristina Šeparović
+
 **Državljanstvo:** hrvatsko
 **Datum rođenja:** 20/03/1993
 **Spol:** Žensko
